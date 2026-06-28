@@ -43,4 +43,6 @@ def alphabeta(depth, node, isMax, values, alpha, beta):
 
         return best
 
+# Leaf values
+values = [10, 9, 14, 18, 5, 4, 50, 3]
 
