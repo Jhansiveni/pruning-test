@@ -46,3 +46,7 @@ def alphabeta(depth, node, isMax, values, alpha, beta):
 # Leaf values
 values = [10, 9, 14, 18, 5, 4, 50, 3]
 
+
+# Function call
+result = alphabeta(0, 0, True, values, -1000, 1000)
+
