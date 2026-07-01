@@ -1,7 +1,7 @@
 # Alpha-Beta Pruning Algorithm in Python
 
 ## Overview
-
+jdnvkjsfdvnjfkvnfkjvnfvkjbfvkjbjcbv
 This project demonstrates the **Alpha-Beta Pruning** algorithm, an optimization of the **Minimax** algorithm used in Artificial Intelligence for decision-making in two-player games.
 
 The algorithm reduces the number of nodes evaluated in the game tree by eliminating branches that cannot influence the final decision, making the search process faster while producing the same optimal result as Minimax.
